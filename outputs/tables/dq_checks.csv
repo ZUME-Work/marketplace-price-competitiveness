@@ -1,0 +1,12 @@
+check_name,n
+order_items_rows,112650
+orders_rows,99441
+orders_canceled_or_unavailable,1234
+orders_delivered_without_delivery_date,8
+duplicate_order_item_keys,0
+items_price_le_zero,0
+items_free_freight,383
+products_without_category,610
+products_without_weight,6
+categories_without_english_name,2
+orders_with_multiple_reviews,547

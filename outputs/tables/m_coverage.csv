@@ -1,0 +1,4 @@
+measure,products,items,pct_of_items
+products with 1 seller (whole window),31374,97504.0,87.3
+products with 2+ sellers (whole window),1204,14248.0,12.7
+product-quarters with 2+ sellers (same time),662,5956.0,5.3

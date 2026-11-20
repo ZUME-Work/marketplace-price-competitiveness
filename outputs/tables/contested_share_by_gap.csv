@@ -1,0 +1,5 @@
+gap_bucket,seller_rows,avg_item_share_pct,avg_review,median_delivery_days
+Cheapest,666,52.9,4.1,10.0
+0-5% above,255,45.6,4.1,11.0
+5-15% above,250,43.3,4.0,11.0
+>15% above,238,35.9,4.1,11.8
